@@ -12,7 +12,7 @@ I'm a tech nerd who aims to acquire acknowledgments in the tech field.
 * 🎮⠀I play Minecraft (Java & Bedrock) and do tech stuff.
 * 📍⠀I live in Ho Chi Minh, Vietnam
 * 🏫⠀Currently a first-year @ [**FPT University**](https://university.fpt.edu.vn/)
-* 💻⠀Daily-driving a Lenovo LOQ (2024) with 16GB LPDDR5 ⚡️
+* 💻⠀Daily driving a Lenovo LOQ (2024) with 16GB LPDDR5 ⚡️
 * 🖥⠀Doublebooting Windows and Linux on my desktop. (I dislike MacOS because it sucks)
 * 🌐⠀My website: [**Currently Down 🥲**]
 * 📧⠀Email: <a href="tiendatha2006@gmail.com">**tiendatha2006@gmail.com**</a><br>
@@ -20,7 +20,7 @@ I'm a tech nerd who aims to acquire acknowledgments in the tech field.
 **For more info about my devices go [here](https://qtpc.tech/devices)**
 ***
 ## Programming languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DatIT&theme=tokyonight&layout=compact&hide_border=true)](https://qtpc.tech)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DatIT-026&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/DatIT-026/github-readme-stats)
 ***
 ## Links:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white "Discord")](https://discord.com/users/693431978682220544)<br> 
