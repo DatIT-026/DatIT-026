@@ -14,7 +14,7 @@ I'm a tech nerd who aims to acquire acknowledgments in the tech field.
 * 🏫⠀Currently a first-year @ [**FPT University**](https://university.fpt.edu.vn/)
 * 💻⠀Daily driving a Lenovo LOQ (2024) with 16GB LPDDR5 ⚡️
 * 🖥⠀Doublebooting Windows and Linux on my desktop. (I dislike MacOS because it sucks)
-* 🌐⠀My website: [**Currently Down 🥲**] or you can check it out: [here](https://datit-026.github.io/DatIT/)
+* 🌐⠀My website: **Currently Down 🥲** or you can check it out: [here](https://datit-026.github.io/DatIT/)
 * 📧⠀Email: <a href="tiendatha2006@gmail.com">**tiendatha2006@gmail.com**</a><br>
 
 **For more info about my devices go [here](https://datit-026.github.io/DatIT/devices)**
