@@ -17,7 +17,7 @@ I'm a tech nerd who aims to acquire acknowledgments in the tech field.
 * 🌐⠀My website: [**Currently Down 🥲**]
 * 📧⠀Email: <a href="tiendatha2006@gmail.com">**tiendatha2006@gmail.com**</a><br>
 
-**For more info about my devices go [here](https://qtpc.tech/devices)**
+**For more info about my devices go [here]()**
 ***
 ## Programming languages
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DatIT-026&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/DatIT-026/github-readme-stats)
