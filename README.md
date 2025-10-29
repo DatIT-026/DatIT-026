@@ -14,7 +14,7 @@ I am a technology enthusiast who aims to gain recognition in the tech field.
 * 🏫⠀Currently a second-year @ [**FPT University**](https://university.fpt.edu.vn/)
 * 💻⠀Daily driving a Lenovo LOQ (2024) with 16GB LPDDR5 ⚡️
 * 🖥⠀Doublebooting Windows and Linux on my desktop. (I dislike MacOS because it sucks)
-* 🌐⠀My website: **Currently Down 🥲** or you can check it out: [here](https://datit-026.github.io/dattos-archive/)
+* 🌐⠀My website: [here](https://datit-026.github.io/dattos-archive/)
 * 📩⠀Email: <a href="tiendatha2006@gmail.com">**tiendatha2006@gmail.com**</a><br>
 
 ***
