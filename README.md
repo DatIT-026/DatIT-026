@@ -17,10 +17,6 @@ I am a technology enthusiast who aims to gain recognition in the tech field.
 * 🌐⠀My website: [here](https://datit-026.github.io/dattos-archive/)
 * 📩⠀Email: <a href="tiendatha2006@gmail.com">**tiendatha2006@gmail.com**</a><br>
 
-***
-## Programming languages
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DatIT-026&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/DatIT-026/github-readme-stats)
-***
 ## Links:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white "Facebook")](https://www.facebook.com/datit.dev)
 ***
